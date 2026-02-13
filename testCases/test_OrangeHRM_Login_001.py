@@ -33,14 +33,14 @@ class  Test_OrangeHRM_Login_001:
         self.log.info("OrangeHRM Login Page Loaded")
         if self.driver.title == "OrangeHRM":
             self.log.info("OrangeHRM Login Page URL Verified")
-            self.driver.save_screenshot("screenshots\\test_verify_url_pass.png")
+            self.driver.save_screenshot("Screenshots\\test_verify_url_pass.png")
             self.log.info("Screenshot of Passed Test Saved")
-            allure.attach.file("screenshots\\test_verify_url_pass.png", name="test_verify_url_pass", attachment_type=allure.attachment_type.PNG)
+            allure.attach.file(".\\Screenshots\\test_verify_url_pass.png", name="test_verify_url_pass", attachment_type=allure.attachment_type.PNG)
             assert True
         else:
             self.log.error("OrangeHRM Login Page URL Not Verified")
-            self.driver.save_screenshot("screenshots\\test_verify_url_fail.png")
-            allure.attach.file("screenshots\\test_verify_url_fail.png", name="test_verify_url_fail", attachment_type=allure.attachment_type.PNG)
+            self.driver.save_screenshot("Screenshots\\test_verify_url_fail.png")
+            allure.attach.file(".\\Screenshots\\test_verify_url_fail.png", name="test_verify_url_fail", attachment_type=allure.attachment_type.PNG)
             assert False
         self.log.info("test_verify_url_001 test Completed")
         self.log.info("=============================================================")
@@ -73,9 +73,9 @@ class  Test_OrangeHRM_Login_001:
         self.log.info("Login Attempt Completed")
         if lp.verify_login() == "Login Successful":
             self.log.info("Login Successful")
-            self.driver.save_screenshot("screenshots\\test_OrangeHRM_Login_002_pass.png")
+            self.driver.save_screenshot("Screenshots\\test_OrangeHRM_Login_002_pass.png")
             self.log.info("Screenshot of Passed Test Saved")
-            allure.attach.file("screenshots\\test_OrangeHRM_Login_002_pass.png", name="test_OrangeHRM_Login_002_pass", attachment_type=allure.attachment_type.PNG)
+            allure.attach.file(".\\Screenshots\\test_OrangeHRM_Login_002_pass.png", name="test_OrangeHRM_Login_002_pass", attachment_type=allure.attachment_type.PNG)
             time.sleep(5)
             lp.Click_Menu()
 
@@ -84,8 +84,8 @@ class  Test_OrangeHRM_Login_001:
             assert True
         else:
             self.log.error("Login Failed")
-            self.driver.save_screenshot("screenshots\\test_OrangeHRM_Login_002_fail.png")
-            allure.attach.file("screenshots\\test_OrangeHRM_Login_002_fail.png", name="test_OrangeHRM_Login_002_fail", attachment_type=allure.attachment_type.PNG)
+            self.driver.save_screenshot("Screenshots\\test_OrangeHRM_Login_002_fail.png")
+            allure.attach.file(".\\Screenshots\\test_OrangeHRM_Login_002_fail.png", name="test_OrangeHRM_Login_002_fail", attachment_type=allure.attachment_type.PNG)
             assert False
         self.log.info("test_OrangeHRM_Login_002 test Completed")
         self.log.info("=============================================================")
