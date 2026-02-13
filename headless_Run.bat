@@ -1,1 +1,1 @@
-pytest -v -n=2 --html=Html_Reports\OrangeHRM_Login_chrome.html --alluredir=Allure_Reports --browser headless
+pytest -v -n=auto --html=Html_Reports\OrangeHRM_Login.html --alluredir=Allure_Reports --browser headless
