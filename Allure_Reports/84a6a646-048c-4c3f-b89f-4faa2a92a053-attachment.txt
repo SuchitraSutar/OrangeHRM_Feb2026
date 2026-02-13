@@ -1,4 +1,0 @@
-Launching Chrome Browser
-username: Admin1
-password: admin123
-expected_result: Login Fail
