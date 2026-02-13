@@ -1,5 +1,6 @@
 import pytest
 import allure
+import time
 
 from Utilities.XLUtils import XLUtils_class
 from Utilities.logger import Logger_class
@@ -19,6 +20,7 @@ class  Test_OrangeHRM_Login_DDT_002:
         self.log.info(f"Total Rows in Excel: {row_count}")
         result = []
         for i in range(2, row_count + 1):
+            time.sleep(5)
             username = XLUtils_class.read_data(self.excel_file, self.sheet, i, 2)
             password = XLUtils_class.read_data(self.excel_file, self.sheet, i, 3)
             expected_result = XLUtils_class.read_data(self.excel_file, self.sheet, i, 4)
@@ -29,12 +31,15 @@ class  Test_OrangeHRM_Login_DDT_002:
             lp = Login_Page_Class(self.driver)
             lp.Enter_Username(username)
             lp.Enter_Password(password)
+            time.sleep(5)
             lp.Click_Login()
             if lp.verify_login() == "Login Successful":
                 self.log.info(f"Login Successful for Username={username}")
                 self.driver.save_screenshot(f"screenshots\\test_OrangeHRM_Login_DDT_003_pass_{username}.png")
                 allure.attach.file(f"screenshots\\test_OrangeHRM_Login_DDT_003_pass_{username}.png", name=f"test_OrangeHRM_Login_DDT_003_pass_{username}", attachment_type=allure.attachment_type.PNG)
+                time.sleep(5)
                 lp.Click_Menu()
+                time.sleep(5)
                 lp.Click_Logout()
 
                 actual_result = "Login Successful"

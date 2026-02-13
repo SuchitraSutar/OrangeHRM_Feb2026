@@ -1,3 +1,5 @@
+import time
+
 import pytest
 import allure
 
@@ -66,6 +68,7 @@ class  Test_OrangeHRM_Login_001:
         lp.Enter_Username(self.username)
         lp.Enter_Password(self.password)
         self.log.info("Clicking Login Button")
+        time.sleep(5)
         lp.Click_Login()
         self.log.info("Login Attempt Completed")
         if lp.verify_login() == "Login Successful":
@@ -73,7 +76,10 @@ class  Test_OrangeHRM_Login_001:
             self.driver.save_screenshot("screenshots\\test_OrangeHRM_Login_002_pass.png")
             self.log.info("Screenshot of Passed Test Saved")
             allure.attach.file("screenshots\\test_OrangeHRM_Login_002_pass.png", name="test_OrangeHRM_Login_002_pass", attachment_type=allure.attachment_type.PNG)
+            time.sleep(5)
             lp.Click_Menu()
+
+            time.sleep(5)
             lp.Click_Logout()
             assert True
         else:

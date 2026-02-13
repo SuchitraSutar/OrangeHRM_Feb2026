@@ -1,3 +1,5 @@
+from ast import Param
+
 import pytest
 
 
@@ -47,6 +49,17 @@ def driver_setup(request):
     yield driver
     driver.quit()
 
+
+#Test data
+@pytest.fixture(params = [
+    ("Admin", "admin123", "Login Pass"),
+    ("Admin1", "admin123", "Login Fail"),
+    ("Admin", "admin1234", "Login Fail"),
+    ("Admin1", "admin1234", "Login Fail")
+])
+
+def orangeHRM_login_data(request):
+    return request.param
 
 
 
