@@ -395,3 +395,242 @@
 2026-02-13 16:24:26,599 : Test_OrangeHRM_Login_DDT_002 : test_OrangeHRM_Login_DDT_003 : INFO - Test Results: ['Pass', 'Pass', 'Pass', 'Pass']
 2026-02-13 16:24:26,599 : Test_OrangeHRM_Login_DDT_002 : test_OrangeHRM_Login_DDT_003 : INFO - test_OrangeHRM_Login_DDT_003 test Completed
 2026-02-13 16:24:26,599 : Test_OrangeHRM_Login_DDT_002 : test_OrangeHRM_Login_DDT_003 : INFO - =============================================================
+2026-02-13 17:21:53,502 : Test_OrangeHRM_Login_DDT_002 : test_OrangeHRM_Login_DDT_003 : INFO - Starting Test: Verify OrangeHRM Login Functionality
+2026-02-13 17:21:53,521 : Test_OrangeHRM_Login_DDT_002 : test_OrangeHRM_Login_DDT_003 : INFO - Total Rows in Excel: 5
+2026-02-13 17:21:54,105 : Test_OrangeHRM_Login_001 : test_verify_url_001 : INFO - Starting Test: Verify OrangeHRM Login Page URL
+2026-02-13 17:21:54,106 : Test_OrangeHRM_Login_001 : test_verify_url_001 : INFO - Navigating to OrangeHRM Login Page
+2026-02-13 17:21:54,785 : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_002 : INFO - Starting Test: Verify OrangeHRM Login Functionality
+2026-02-13 17:21:54,787 : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_002 : INFO - Navigating to OrangeHRM Login Page
+2026-02-13 17:21:54,803 : Test_OrangeHRM_Params_004 : test_OrangeHRM_Login_Param_005 : INFO - Starting Test: Verify OrangeHRM Login Functionality
+2026-02-13 17:21:54,804 : Test_OrangeHRM_Params_004 : test_OrangeHRM_Login_Param_005 : INFO - Navigating to OrangeHRM Login Page
+2026-02-13 17:21:55,077 : Test_OrangeHRM_Params_004 : test_OrangeHRM_Login_Param_005 : INFO - Starting Test: Verify OrangeHRM Login Functionality
+2026-02-13 17:21:55,078 : Test_OrangeHRM_Params_004 : test_OrangeHRM_Login_Param_005 : INFO - Navigating to OrangeHRM Login Page
+2026-02-13 17:21:55,092 : Test_OrangeHRM_Params_004 : test_OrangeHRM_Login_Param_005 : INFO - Starting Test: Verify OrangeHRM Login Functionality
+2026-02-13 17:21:55,092 : Test_OrangeHRM_Params_004 : test_OrangeHRM_Login_Param_005 : INFO - Navigating to OrangeHRM Login Page
+2026-02-13 17:21:55,353 : Test_OrangeHRM_Params_004 : test_OrangeHRM_Login_Param_005 : INFO - Starting Test: Verify OrangeHRM Login Functionality
+2026-02-13 17:21:55,354 : Test_OrangeHRM_Params_004 : test_OrangeHRM_Login_Param_005 : INFO - Navigating to OrangeHRM Login Page
+2026-02-13 17:21:56,531 : Test_OrangeHRM_Params_004 : test_OrangeHRM_Login_Param_005 : INFO - OrangeHRM Login Page Loaded
+2026-02-13 17:21:56,913 : Test_OrangeHRM_Params_004 : test_OrangeHRM_Login_Param_005 : INFO - OrangeHRM Login Page Loaded
+2026-02-13 17:21:58,551 : Test_OrangeHRM_Login_DDT_002 : test_OrangeHRM_Login_DDT_003 : INFO - Test Data: Username=Admin, Password=admin123, Expected Result=Login Successful
+2026-02-13 17:21:58,551 : Test_OrangeHRM_Login_DDT_002 : test_OrangeHRM_Login_DDT_003 : INFO - Navigating to OrangeHRM Login Page
+2026-02-13 17:22:01,532 : Test_OrangeHRM_Params_004 : test_OrangeHRM_Login_Param_005 : INFO - Entering Username and Password
+2026-02-13 17:22:01,914 : Test_OrangeHRM_Params_004 : test_OrangeHRM_Login_Param_005 : INFO - Entering Username and Password
+2026-02-13 17:22:33,808 : Test_OrangeHRM_Login_001 : test_verify_url_001 : INFO - OrangeHRM Login Page Loaded
+2026-02-13 17:22:33,825 : Test_OrangeHRM_Login_001 : test_verify_url_001 : INFO - OrangeHRM Login Page URL Verified
+2026-02-13 17:22:33,906 : Test_OrangeHRM_Login_001 : test_verify_url_001 : INFO - Screenshot of Passed Test Saved
+2026-02-13 17:22:33,910 : Test_OrangeHRM_Login_001 : test_verify_url_001 : INFO - test_verify_url_001 test Completed
+2026-02-13 17:22:33,910 : Test_OrangeHRM_Login_001 : test_verify_url_001 : INFO - =============================================================
+2026-02-13 17:22:36,001 : Test_OrangeHRM_Params_004 : test_OrangeHRM_Login_Param_005 : INFO - OrangeHRM Login Page Loaded
+2026-02-13 17:22:41,004 : Test_OrangeHRM_Params_004 : test_OrangeHRM_Login_Param_005 : INFO - Entering Username and Password
+2026-02-13 17:22:41,418 : Test_OrangeHRM_Params_004 : test_OrangeHRM_Login_Param_005 : INFO - Clicking Login Button
+2026-02-13 17:22:41,611 : Test_OrangeHRM_Params_004 : test_OrangeHRM_Login_Param_005 : INFO - OrangeHRM Login Page Loaded
+2026-02-13 17:22:46,611 : Test_OrangeHRM_Params_004 : test_OrangeHRM_Login_Param_005 : INFO - Entering Username and Password
+2026-02-13 17:22:46,968 : Test_OrangeHRM_Params_004 : test_OrangeHRM_Login_Param_005 : INFO - Clicking Login Button
+2026-02-13 17:22:49,212 : Test_OrangeHRM_Login_DDT_002 : test_OrangeHRM_Login_DDT_003 : INFO - OrangeHRM Login Page Loaded
+2026-02-13 17:22:50,693 : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_002 : INFO - OrangeHRM Login Page Loaded
+2026-02-13 17:22:50,693 : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_002 : INFO - Entering Username and Password
+2026-02-13 17:22:57,603 : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_002 : INFO - Clicking Login Button
+2026-02-13 17:23:02,782 : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_002 : INFO - Login Attempt Completed
+2026-02-13 17:23:06,800 : Test_OrangeHRM_Params_004 : test_OrangeHRM_Login_Param_005 : INFO - Login Failed
+2026-02-13 17:23:06,800 : Test_OrangeHRM_Params_004 : test_OrangeHRM_Login_Param_005 : INFO - Screenshot of Failed Test Saved
+2026-02-13 17:23:12,358 : Test_OrangeHRM_Params_004 : test_OrangeHRM_Login_Param_005 : INFO - Login Failed
+2026-02-13 17:23:12,358 : Test_OrangeHRM_Params_004 : test_OrangeHRM_Login_Param_005 : INFO - Screenshot of Failed Test Saved
+2026-02-13 17:23:18,627 : Test_OrangeHRM_Login_DDT_002 : test_OrangeHRM_Login_DDT_003 : ERROR - Login Failed for Username=Admin
+2026-02-13 17:23:18,748 : Test_OrangeHRM_Login_DDT_002 : test_OrangeHRM_Login_DDT_003 : ERROR - Test Failed for Username=Admin
+2026-02-13 17:23:22,788 : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_002 : ERROR - Login Failed
+2026-02-13 17:23:23,947 : Test_OrangeHRM_Login_DDT_002 : test_OrangeHRM_Login_DDT_003 : INFO - Test Data: Username=Admin1, Password=admin123, Expected Result=Login Failed
+2026-02-13 17:23:23,947 : Test_OrangeHRM_Login_DDT_002 : test_OrangeHRM_Login_DDT_003 : INFO - Navigating to OrangeHRM Login Page
+2026-02-13 17:23:23,950 : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_002 : INFO - Starting Test: Verify OrangeHRM Login Functionality
+2026-02-13 17:23:23,950 : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_002 : INFO - Navigating to OrangeHRM Login Page
+2026-02-13 17:23:31,106 : Test_OrangeHRM_Login_DDT_002 : test_OrangeHRM_Login_DDT_003 : INFO - OrangeHRM Login Page Loaded
+2026-02-13 17:23:31,107 : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_002 : INFO - OrangeHRM Login Page Loaded
+2026-02-13 17:23:31,107 : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_002 : INFO - Entering Username and Password
+2026-02-13 19:28:01,548 : Test_Add_Employee : test_add_employee_006 : INFO - Starting Test: Verify Add Employee Functionality
+2026-02-13 19:28:01,549 : Test_Add_Employee : test_add_employee_006 : INFO - Navigating to OrangeHRM Login Page
+2026-02-13 19:31:17,720 : Test_Add_Employee : test_add_employee_006 : INFO - Starting Test: Verify Add Employee Functionality
+2026-02-13 19:31:17,721 : Test_Add_Employee : test_add_employee_006 : INFO - Navigating to OrangeHRM Login Page
+2026-02-13 19:31:37,040 : Test_Add_Employee : test_add_employee_006 : INFO - OrangeHRM Login Page Loaded
+2026-02-13 19:31:37,040 : Test_Add_Employee : test_add_employee_006 : INFO - Entering Username and Password
+2026-02-13 19:31:38,417 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Login Button
+2026-02-13 19:31:38,575 : Test_Add_Employee : test_add_employee_006 : INFO - Login Attempt Completed
+2026-02-13 19:31:38,576 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking PIM Button
+2026-02-13 19:31:42,044 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Add Button
+2026-02-13 19:35:58,124 : Test_Add_Employee : test_add_employee_006 : INFO - Starting Test: Verify Add Employee Functionality
+2026-02-13 19:35:58,125 : Test_Add_Employee : test_add_employee_006 : INFO - Navigating to OrangeHRM Login Page
+2026-02-13 19:36:18,226 : Test_Add_Employee : test_add_employee_006 : INFO - OrangeHRM Login Page Loaded
+2026-02-13 19:36:18,227 : Test_Add_Employee : test_add_employee_006 : INFO - Entering Username and Password
+2026-02-13 19:36:20,775 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Login Button
+2026-02-13 19:36:21,001 : Test_Add_Employee : test_add_employee_006 : INFO - Login Attempt Completed
+2026-02-13 19:36:21,003 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking PIM Button
+2026-02-13 19:36:24,502 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Add Button
+2026-02-13 19:45:43,243 : Test_Add_Employee : test_add_employee_006 : INFO - Starting Test: Verify Add Employee Functionality
+2026-02-13 19:45:43,244 : Test_Add_Employee : test_add_employee_006 : INFO - Navigating to OrangeHRM Login Page
+2026-02-13 19:46:00,831 : Test_Add_Employee : test_add_employee_006 : INFO - OrangeHRM Login Page Loaded
+2026-02-13 19:46:00,831 : Test_Add_Employee : test_add_employee_006 : INFO - Entering Username and Password
+2026-02-13 19:46:02,669 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Login Button
+2026-02-13 19:46:02,826 : Test_Add_Employee : test_add_employee_006 : INFO - Login Attempt Completed
+2026-02-13 19:46:02,827 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking PIM Button
+2026-02-13 19:46:06,335 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Add Button
+2026-02-13 20:33:30,208 : Test_Add_Employee : test_add_employee_006 : INFO - Starting Test: Verify Add Employee Functionality
+2026-02-13 20:33:30,208 : Test_Add_Employee : test_add_employee_006 : INFO - Navigating to OrangeHRM Login Page
+2026-02-13 20:33:48,053 : Test_Add_Employee : test_add_employee_006 : INFO - OrangeHRM Login Page Loaded
+2026-02-13 20:33:48,054 : Test_Add_Employee : test_add_employee_006 : INFO - Entering Username and Password
+2026-02-13 20:33:50,140 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Login Button
+2026-02-13 20:33:50,315 : Test_Add_Employee : test_add_employee_006 : INFO - Login Attempt Completed
+2026-02-13 20:33:50,316 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking PIM Button
+2026-02-13 20:33:54,275 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Add Button
+2026-02-13 20:36:05,401 : Test_Add_Employee : test_add_employee_006 : INFO - Starting Test: Verify Add Employee Functionality
+2026-02-13 20:36:05,402 : Test_Add_Employee : test_add_employee_006 : INFO - Navigating to OrangeHRM Login Page
+2026-02-13 20:36:26,328 : Test_Add_Employee : test_add_employee_006 : INFO - OrangeHRM Login Page Loaded
+2026-02-13 20:36:26,328 : Test_Add_Employee : test_add_employee_006 : INFO - Entering Username and Password
+2026-02-13 20:36:28,160 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Login Button
+2026-02-13 20:36:28,329 : Test_Add_Employee : test_add_employee_006 : INFO - Login Attempt Completed
+2026-02-13 20:36:28,330 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking PIM Button
+2026-02-13 20:36:32,773 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Add Button
+2026-02-13 20:37:37,606 : Test_Add_Employee : test_add_employee_006 : INFO - Starting Test: Verify Add Employee Functionality
+2026-02-13 20:37:37,607 : Test_Add_Employee : test_add_employee_006 : INFO - Navigating to OrangeHRM Login Page
+2026-02-13 20:37:54,969 : Test_Add_Employee : test_add_employee_006 : INFO - OrangeHRM Login Page Loaded
+2026-02-13 20:37:54,969 : Test_Add_Employee : test_add_employee_006 : INFO - Entering Username and Password
+2026-02-13 20:37:56,849 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Login Button
+2026-02-13 20:37:57,014 : Test_Add_Employee : test_add_employee_006 : INFO - Login Attempt Completed
+2026-02-13 20:37:57,015 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking PIM Button
+2026-02-13 20:38:07,950 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Add Button
+2026-02-13 20:41:38,553 : Test_Add_Employee : test_add_employee_006 : INFO - Starting Test: Verify Add Employee Functionality
+2026-02-13 20:41:38,554 : Test_Add_Employee : test_add_employee_006 : INFO - Navigating to OrangeHRM Login Page
+2026-02-13 20:41:54,556 : Test_Add_Employee : test_add_employee_006 : INFO - OrangeHRM Login Page Loaded
+2026-02-13 20:41:54,556 : Test_Add_Employee : test_add_employee_006 : INFO - Entering Username and Password
+2026-02-13 20:41:56,491 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Login Button
+2026-02-13 20:41:56,651 : Test_Add_Employee : test_add_employee_006 : INFO - Login Attempt Completed
+2026-02-13 20:41:56,652 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking PIM Button
+2026-02-13 20:42:07,681 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Add Button
+2026-02-14 17:04:47,104 : Test_Add_Employee : test_add_employee_006 : INFO - Starting Test: Verify Add Employee Functionality
+2026-02-14 17:04:47,106 : Test_Add_Employee : test_add_employee_006 : INFO - Navigating to OrangeHRM Login Page
+2026-02-14 17:05:03,037 : Test_Add_Employee : test_add_employee_006 : INFO - OrangeHRM Login Page Loaded
+2026-02-14 17:05:03,037 : Test_Add_Employee : test_add_employee_006 : INFO - Entering Username and Password
+2026-02-14 17:05:05,119 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Login Button
+2026-02-14 17:05:05,313 : Test_Add_Employee : test_add_employee_006 : INFO - Login Attempt Completed
+2026-02-14 17:05:05,315 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking PIM Button
+2026-02-14 17:05:16,957 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Add Button
+2026-02-14 17:05:22,760 : Test_Add_Employee : test_add_employee_006 : INFO - Entering Employee Details
+2026-02-14 17:06:43,150 : Test_Add_Employee : test_add_employee_006 : INFO - Starting Test: Verify Add Employee Functionality
+2026-02-14 17:06:43,151 : Test_Add_Employee : test_add_employee_006 : INFO - Navigating to OrangeHRM Login Page
+2026-02-14 17:06:57,932 : Test_Add_Employee : test_add_employee_006 : INFO - OrangeHRM Login Page Loaded
+2026-02-14 17:06:57,933 : Test_Add_Employee : test_add_employee_006 : INFO - Entering Username and Password
+2026-02-14 17:06:59,785 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Login Button
+2026-02-14 17:06:59,941 : Test_Add_Employee : test_add_employee_006 : INFO - Login Attempt Completed
+2026-02-14 17:06:59,942 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking PIM Button
+2026-02-14 17:07:12,320 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Add Button
+2026-02-14 17:07:23,285 : Test_Add_Employee : test_add_employee_006 : INFO - Entering Employee Details
+2026-02-14 17:08:22,195 : Test_Add_Employee : test_add_employee_006 : INFO - Starting Test: Verify Add Employee Functionality
+2026-02-14 17:08:22,196 : Test_Add_Employee : test_add_employee_006 : INFO - Navigating to OrangeHRM Login Page
+2026-02-14 17:08:37,156 : Test_Add_Employee : test_add_employee_006 : INFO - OrangeHRM Login Page Loaded
+2026-02-14 17:08:37,156 : Test_Add_Employee : test_add_employee_006 : INFO - Entering Username and Password
+2026-02-14 17:08:39,952 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Login Button
+2026-02-14 17:08:40,139 : Test_Add_Employee : test_add_employee_006 : INFO - Login Attempt Completed
+2026-02-14 17:08:40,140 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking PIM Button
+2026-02-14 17:08:52,807 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Add Button
+2026-02-14 17:09:04,259 : Test_Add_Employee : test_add_employee_006 : INFO - Entering Employee Details
+2026-02-14 17:11:20,073 : Test_Add_Employee : test_add_employee_006 : INFO - Starting Test: Verify Add Employee Functionality
+2026-02-14 17:11:20,074 : Test_Add_Employee : test_add_employee_006 : INFO - Navigating to OrangeHRM Login Page
+2026-02-14 17:11:42,097 : Test_Add_Employee : test_add_employee_006 : INFO - OrangeHRM Login Page Loaded
+2026-02-14 17:11:42,098 : Test_Add_Employee : test_add_employee_006 : INFO - Entering Username and Password
+2026-02-14 17:11:43,452 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Login Button
+2026-02-14 17:11:43,620 : Test_Add_Employee : test_add_employee_006 : INFO - Login Attempt Completed
+2026-02-14 17:11:43,621 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking PIM Button
+2026-02-14 17:11:56,953 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Add Button
+2026-02-14 17:12:07,832 : Test_Add_Employee : test_add_employee_006 : INFO - Entering Employee Details
+2026-02-14 17:17:39,553 : Test_Add_Employee : test_add_employee_006 : INFO - Starting Test: Verify Add Employee Functionality
+2026-02-14 17:17:39,553 : Test_Add_Employee : test_add_employee_006 : INFO - Navigating to OrangeHRM Login Page
+2026-02-14 17:17:56,994 : Test_Add_Employee : test_add_employee_006 : INFO - OrangeHRM Login Page Loaded
+2026-02-14 17:17:56,995 : Test_Add_Employee : test_add_employee_006 : INFO - Entering Username and Password
+2026-02-14 17:17:58,367 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Login Button
+2026-02-14 17:17:58,520 : Test_Add_Employee : test_add_employee_006 : INFO - Login Attempt Completed
+2026-02-14 17:17:58,521 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking PIM Button
+2026-02-14 17:18:10,734 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Add Button
+2026-02-14 17:18:21,651 : Test_Add_Employee : test_add_employee_006 : INFO - Entering Employee Details
+2026-02-14 17:21:35,126 : Test_Add_Employee : test_add_employee_006 : INFO - Starting Test: Verify Add Employee Functionality
+2026-02-14 17:21:35,127 : Test_Add_Employee : test_add_employee_006 : INFO - Navigating to OrangeHRM Login Page
+2026-02-14 17:21:55,793 : Test_Add_Employee : test_add_employee_006 : INFO - OrangeHRM Login Page Loaded
+2026-02-14 17:21:55,793 : Test_Add_Employee : test_add_employee_006 : INFO - Entering Username and Password
+2026-02-14 17:21:57,680 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Login Button
+2026-02-14 17:21:57,837 : Test_Add_Employee : test_add_employee_006 : INFO - Login Attempt Completed
+2026-02-14 17:21:57,838 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking PIM Button
+2026-02-14 17:22:09,478 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Add Button
+2026-02-14 17:22:20,668 : Test_Add_Employee : test_add_employee_006 : INFO - Entering Employee Details
+2026-02-14 17:24:41,542 : Test_Add_Employee : test_add_employee_006 : INFO - Starting Test: Verify Add Employee Functionality
+2026-02-14 17:24:41,543 : Test_Add_Employee : test_add_employee_006 : INFO - Navigating to OrangeHRM Login Page
+2026-02-14 17:24:57,583 : Test_Add_Employee : test_add_employee_006 : INFO - OrangeHRM Login Page Loaded
+2026-02-14 17:24:57,583 : Test_Add_Employee : test_add_employee_006 : INFO - Entering Username and Password
+2026-02-14 17:24:59,024 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Login Button
+2026-02-14 17:24:59,197 : Test_Add_Employee : test_add_employee_006 : INFO - Login Attempt Completed
+2026-02-14 17:24:59,197 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking PIM Button
+2026-02-14 17:25:10,624 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Add Button
+2026-02-14 17:25:21,515 : Test_Add_Employee : test_add_employee_006 : INFO - Entering Employee Details
+2026-02-14 17:26:46,519 : Test_Add_Employee : test_add_employee_006 : INFO - Starting Test: Verify Add Employee Functionality
+2026-02-14 17:26:46,520 : Test_Add_Employee : test_add_employee_006 : INFO - Navigating to OrangeHRM Login Page
+2026-02-14 17:27:03,116 : Test_Add_Employee : test_add_employee_006 : INFO - OrangeHRM Login Page Loaded
+2026-02-14 17:27:03,117 : Test_Add_Employee : test_add_employee_006 : INFO - Entering Username and Password
+2026-02-14 17:27:04,477 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Login Button
+2026-02-14 17:27:04,628 : Test_Add_Employee : test_add_employee_006 : INFO - Login Attempt Completed
+2026-02-14 17:27:04,628 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking PIM Button
+2026-02-14 17:27:18,333 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Add Button
+2026-02-14 17:27:29,494 : Test_Add_Employee : test_add_employee_006 : INFO - Entering Employee Details
+2026-02-14 17:28:09,611 : Test_Add_Employee : test_add_employee_006 : INFO - Starting Test: Verify Add Employee Functionality
+2026-02-14 17:28:09,611 : Test_Add_Employee : test_add_employee_006 : INFO - Navigating to OrangeHRM Login Page
+2026-02-14 17:28:30,784 : Test_Add_Employee : test_add_employee_006 : INFO - OrangeHRM Login Page Loaded
+2026-02-14 17:28:30,784 : Test_Add_Employee : test_add_employee_006 : INFO - Entering Username and Password
+2026-02-14 17:28:32,631 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Login Button
+2026-02-14 17:28:32,817 : Test_Add_Employee : test_add_employee_006 : INFO - Login Attempt Completed
+2026-02-14 17:28:32,818 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking PIM Button
+2026-02-14 17:28:45,585 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Add Button
+2026-02-14 17:28:56,652 : Test_Add_Employee : test_add_employee_006 : INFO - Entering Employee Details
+2026-02-14 17:29:45,572 : Test_Add_Employee : test_add_employee_006 : INFO - Starting Test: Verify Add Employee Functionality
+2026-02-14 17:29:45,573 : Test_Add_Employee : test_add_employee_006 : INFO - Navigating to OrangeHRM Login Page
+2026-02-14 17:29:58,465 : Test_Add_Employee : test_add_employee_006 : INFO - OrangeHRM Login Page Loaded
+2026-02-14 17:29:58,465 : Test_Add_Employee : test_add_employee_006 : INFO - Entering Username and Password
+2026-02-14 17:30:00,341 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Login Button
+2026-02-14 17:30:00,490 : Test_Add_Employee : test_add_employee_006 : INFO - Login Attempt Completed
+2026-02-14 17:30:00,491 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking PIM Button
+2026-02-14 17:30:49,934 : Test_Add_Employee : test_add_employee_006 : INFO - Starting Test: Verify Add Employee Functionality
+2026-02-14 17:30:49,935 : Test_Add_Employee : test_add_employee_006 : INFO - Navigating to OrangeHRM Login Page
+2026-02-14 17:31:09,096 : Test_Add_Employee : test_add_employee_006 : INFO - OrangeHRM Login Page Loaded
+2026-02-14 17:31:09,097 : Test_Add_Employee : test_add_employee_006 : INFO - Entering Username and Password
+2026-02-14 17:31:10,435 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Login Button
+2026-02-14 17:31:10,616 : Test_Add_Employee : test_add_employee_006 : INFO - Login Attempt Completed
+2026-02-14 17:31:10,617 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking PIM Button
+2026-02-14 17:31:22,357 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Add Button
+2026-02-14 17:31:33,641 : Test_Add_Employee : test_add_employee_006 : INFO - Entering Employee Details
+2026-02-14 17:32:05,015 : Test_Add_Employee : test_add_employee_006 : INFO - Starting Test: Verify Add Employee Functionality
+2026-02-14 17:32:05,016 : Test_Add_Employee : test_add_employee_006 : INFO - Navigating to OrangeHRM Login Page
+2026-02-14 17:32:41,991 : Test_Add_Employee : test_add_employee_006 : INFO - OrangeHRM Login Page Loaded
+2026-02-14 17:32:41,992 : Test_Add_Employee : test_add_employee_006 : INFO - Entering Username and Password
+2026-02-14 17:32:43,922 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Login Button
+2026-02-14 17:32:44,074 : Test_Add_Employee : test_add_employee_006 : INFO - Login Attempt Completed
+2026-02-14 17:32:44,075 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking PIM Button
+2026-02-14 17:32:55,442 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Add Button
+2026-02-14 17:33:06,298 : Test_Add_Employee : test_add_employee_006 : INFO - Entering Employee Details
+2026-02-14 17:33:11,888 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Save Button
+2026-02-14 17:33:12,043 : Test_Add_Employee : test_add_employee_006 : INFO - Employee Added Successfully
+2026-02-14 17:33:18,542 : Test_Add_Employee : test_add_employee_006 : INFO - Employee Details Verified
+2026-02-14 17:33:23,794 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking PIM Button
+2026-02-14 17:33:30,483 : Test_Add_Employee : test_add_employee_006 : INFO - Entering Employee ID
+2026-02-14 17:46:27,396 : Test_Add_Employee : test_add_employee_006 : INFO - Starting Test: Verify Add Employee Functionality
+2026-02-14 17:46:27,397 : Test_Add_Employee : test_add_employee_006 : INFO - Navigating to OrangeHRM Login Page
+2026-02-14 17:46:50,275 : Test_Add_Employee : test_add_employee_006 : INFO - OrangeHRM Login Page Loaded
+2026-02-14 17:46:50,275 : Test_Add_Employee : test_add_employee_006 : INFO - Entering Username and Password
+2026-02-14 17:46:52,102 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Login Button
+2026-02-14 17:46:52,270 : Test_Add_Employee : test_add_employee_006 : INFO - Login Attempt Completed
+2026-02-14 17:46:52,270 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking PIM Button
+2026-02-14 17:47:04,076 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Add Button
+2026-02-14 17:47:15,106 : Test_Add_Employee : test_add_employee_006 : INFO - Entering Employee Details
+2026-02-14 17:47:20,584 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Save Button
+2026-02-14 17:47:20,725 : Test_Add_Employee : test_add_employee_006 : INFO - Employee Added Successfully
+2026-02-14 17:47:27,509 : Test_Add_Employee : test_add_employee_006 : INFO - Employee Details Verified
+2026-02-14 17:47:27,766 : Test_Add_Employee : test_add_employee_006 : INFO - Screenshot saved
+2026-02-14 17:47:32,767 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking PIM Button
+2026-02-14 17:47:39,229 : Test_Add_Employee : test_add_employee_006 : INFO - Entering Employee name
+2026-02-14 17:47:44,428 : Test_Add_Employee : test_add_employee_006 : INFO - Clicking Search Button
+2026-02-14 17:47:44,616 : Test_Add_Employee : test_add_employee_006 : INFO - Employee Record Found
+2026-02-14 17:47:49,663 : Test_Add_Employee : test_add_employee_006 : INFO - Employee Record Verified
+2026-02-14 17:47:49,857 : Test_Add_Employee : test_add_employee_006 : INFO - test_add_employee_006 test Completed
+2026-02-14 17:47:49,858 : Test_Add_Employee : test_add_employee_006 : INFO - =============================================================

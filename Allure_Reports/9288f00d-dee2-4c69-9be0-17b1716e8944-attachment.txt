@@ -1,0 +1,4 @@
+Launching Headless Browser
+username: Admin
+password: admin123
+expected_result: Login Pass
